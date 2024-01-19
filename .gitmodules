@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:AliciaFramboise/artworks-manager.git
+	branch = v1 
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:AliciaFramboise/portfolio-interface.git
+	branch = v1
